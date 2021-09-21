@@ -1,4 +1,4 @@
-# Chat App
+# Bye Thieves - Chao Ladrones
 
 ## Índice
 
