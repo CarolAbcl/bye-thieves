@@ -13,8 +13,10 @@
 ![Incautación de especies robadas](https://elmagallanico.com/wp-content/uploads/2018/03/2018-03-22-robo-herramientas-2.jpg)
 
 
-Diariamente se producen cientos de robos en el país, un sin fin de especies desde celulares a automóviles quedan en manos de los delincuentes. Si consideramos que los ladrones roban para vender y obtener ganancias de eso ¿Qué pasaría si no tuvieran donde vender las cosas? Sino se compraran cosas robadas, habría menos incentivo para robar, menos mercado para estos delincuentes.
+Diariamente se producen cientos de robos en el país, un sin fin de especies desde celulares a automóviles quedan en manos de los delincuentes. Si consideramos que los ladrones roban para vender y obtener ganancias de eso ¿Qué pasaría si no tuvieran donde vender las cosas? Si no se compraran cosas robadas, habría menos incentivo para robar, menos mercado para estos delincuentes.
+
 En nuestro país sólo existe un registro para los encargos de vehículos robados, pero no pasa lo mismo con otros artículos como celulares, herramientas, computadores, bicicletas, entre otros. De hecho es bastante probable que esas especies sean reducidas en plataformas de comercio electrónico como artículos de segunda mano. ¿Cómo podemos saber si eso que ofrecen es robado o no? Muchas veces hacemos acto de fé.
+
 Por otra parte, cuando uno es victima de robo existe una total impotencia por lo sucedido, además de dejar denuncia en carabineros, no hay mucho más que hacer y seguir un proceso para encontrar culpables resulta ser de bastante tiempo y costo. En este contexto un lugar para contar lo sucedido y dejar publicadas las cosas robadas, al menos serviría de catarsis.
 
 
