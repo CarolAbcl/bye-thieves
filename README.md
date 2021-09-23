@@ -56,6 +56,7 @@ Vamos a ir incluyendo los avances y otros enlaces para participar.
 
 - Hacer un fork del repositorio.
 - Clona el repositorio para trabajar en tu equipo.
+- Instala las dependencias con npm install.
 - Crea una rama.
 - Sube cambios a tu repositorio.
 - Envia un Pull request para revisar tus constribuciones y agregarlos al repositorio principal. Asegurate de describir bien el aporte que entregas. 
