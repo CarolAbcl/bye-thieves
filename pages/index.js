@@ -21,6 +21,13 @@ export default function Home() {
           <code className={styles.code}>testing</code>
         </p>
 
+<<<<<<< HEAD
+=======
+        <div className={styles.grid}>
+
+          
+        </div>
+>>>>>>> 8f31dd7fa790b303aef792ad90c53f7686042502
       </main>
 
       <footer className={styles.footer}>
